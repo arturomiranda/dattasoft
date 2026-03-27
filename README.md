@@ -23,6 +23,17 @@ A continuación, se detalla el listado de cada uno de los proyectos, su propósi
 <hr>
 <br>
 
+### 🔑 [lms-app](./lms-app)
+
+> **License Management System (LMS)**
+
+- **📓 Descripción:** Sistema centralizado para la administración, generación y control de licencias de software, usuarios y recursos de infraestructura.
+- **🔗 Repositorio:** [https://github.com/arturomiranda/lms-app.git](https://github.com/arturomiranda/lms-app.git)
+
+<br>
+<hr>
+<br>
+
 ### 🛒 [web-app](./web-app)
 
 > **Plataforma Web Corporativa y de E-commerce**
