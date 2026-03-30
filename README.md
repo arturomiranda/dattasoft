@@ -11,6 +11,20 @@ Bienvenido al repositorio central de **Dattasoft**. Este documento actúa como e
 A continuación, se detalla el listado de cada uno de los proyectos, su propósito y recursos correspondientes:
 
 <br>
+<br>
+<br>
+
+### 📈 [ds-qs](./ds-qs)
+
+> **ERP Intelligent Suite (Phase 1)**
+
+- **📓 Descripción:** ERP de siguiente generación diseñado para la automatización contable total. La arquitectura se basa en la potencia de Velneo para la gestión de datos e interfaz, potenciada por un ecosistema de microservicios en Node.js para la clasificación contable automática mediante IA.
+- **🔗 Repositorio:** [https://github.com/arturomiranda/ds-qs.git](https://github.com/arturomiranda/ds-qs.git)
+
+<br>
+<hr>
+<br>
+
 
 ### 📦 [ds-api](./ds-api)
 
