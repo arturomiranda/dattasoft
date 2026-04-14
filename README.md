@@ -11,8 +11,6 @@ Bienvenido al repositorio central de **Dattasoft**. Este documento actúa como e
 A continuación, se detalla el listado de cada uno de los proyectos, su propósito y recursos correspondientes:
 
 <br>
-<br>
-<br>
 
 ### 📈 [ds-qs](./ds-qs)
 
